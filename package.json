@@ -26,7 +26,8 @@
     "lodash.throttle": "^4.1.1",
     "modern-normalize": "^1.1.0",
     "shortid": "^2.2.16",
-    "simple-lightbox": "^2.1.0"
+    "simple-lightbox": "^2.1.0",
+    "tar": "^6.1.11"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
